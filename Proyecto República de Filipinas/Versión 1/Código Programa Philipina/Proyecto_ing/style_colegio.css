@@ -1,0 +1,52 @@
+
+.fondo{
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.Colorbody{
+    background-color:#f7f7f6;
+}
+.caja{
+    display: flex;
+}
+
+.margen{
+    margin-left: 17%;
+    margin-right: 20%;
+}
+
+.margenCaja{
+    margin-top: 1%;
+    background-color: rgb(233, 244, 248);
+    margin-left: 5px;
+}
+.nota{
+    width: 50px;
+}
+
+.promedio{
+    width: 100px;
+}
+
+
+.asistent{
+    width: auto;
+    margin-left: 50%;
+
+}
+
+.alumnos{
+    width: 400px;
+}
+
+.botones{
+    width: 200px;
+    margin-top: 40%;
+    margin-left: 2%;
+}
+
